@@ -186,7 +186,7 @@ body {
   height: 100%;
   width: 100%;
   object-fit: cover;
-  -webkit-mask-image: url(vecteezy_grunge-paintbrush-ink-stroke-brush_22070765_508.png);
+  -webkit-mask-image: url(vecteezy_grunge-paintbrush-ink-stroke-brush_22070765_508.webp);
   -webkit-mask-size: 100%;
 }
 
@@ -305,7 +305,7 @@ body {
   font-size: 50px;
   -webkit-text-stroke-width: 1px;
   -webkit-text-fill-color: transparent;
-  background-image: url(down132\ \(1\).png);
+  background-image: url(./down132\ \(1\).webp);
   background-position: center;
   background-clip: text;
   -webkit-background-clip: text;
